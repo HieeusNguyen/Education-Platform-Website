@@ -23,11 +23,12 @@ a {
 }
 
 .btn {
-    padding: 16px 20px;
+    padding: 0 16px;
     display: inline-block;
     min-width: 118px;
     font-weight: 600;
     font-size: 1.6rem;
+    line-height: 50px;
     text-align: center;
     color: #ffffff;
     background: #171100;
