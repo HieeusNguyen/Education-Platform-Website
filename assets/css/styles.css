@@ -337,7 +337,7 @@ a {
     margin-bottom: 7px;
 }
 
-.popular .head .title {
+.popular .head .title a {
     font-weight: 600;
     font-size: 1.8rem;
     line-height: 1.67;
@@ -350,8 +350,14 @@ a {
     gap: 6px;
 }
 
+.popular .head .rating .value {
+    font-size: 1.6rem;
+    line-height: 1.75;
+    color: #fea31b;
+}
+
 .popular .info .desc {
-    font-weight: 400;~
+    font-weight: 400;
     font-size: 1.4rem;
     line-height: 1.86;
     color: #5f5b53;
@@ -378,7 +384,7 @@ a {
     color: #ffffff;
 }
 
-.popular .foot .book-btn:hover{
+.popular .foot .book-btn:hover {
     color: #fff;
     background-color: var(--primary-color);
     cursor: pointer;
