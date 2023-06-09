@@ -273,6 +273,8 @@ a {
     color: #171100;
 }
 
+/* Popular */
+
 .popular {
     padding: 65px 0;
     margin-top: 135px;
@@ -405,6 +407,7 @@ a {
     cursor: pointer;
 }
 
+/* Feedback */
 .feedback {
     margin-top: 135px;
     padding: 96px 0;
@@ -523,6 +526,7 @@ a {
     color: #fff;
 }
 
+/* Feedback 2nd */
 .features-2nd {
     margin-top: 70px;
 }
@@ -668,7 +672,7 @@ a {
 .footer .row {
     display: flex;
     padding-bottom: 38px;
-    border-bottom: 1px solid #59554B;
+    border-bottom: 1px solid #59554b;
 }
 
 .footer .column {
@@ -707,11 +711,11 @@ a {
     margin-top: 28px;
 }
 
-.footer li{
+.footer li {
     margin-bottom: 12px;
 }
 
-.footer li:last-child{
+.footer li:last-child {
     margin-bottom: 0;
 }
 
@@ -721,18 +725,18 @@ a {
     color: #bfbcb2;
 }
 
-.footer .list strong{
+.footer .list strong {
     font-weight: 600;
     color: #fff;
 }
 
-.footer .copyright{
+.footer .copyright {
     padding: 28px 0;
 }
 
-.footer .copyright .desc{
+.footer .copyright .desc {
     font-size: 1.4rem;
-line-height: 1.86;
-text-align: center;
-color: #807D74;
+    line-height: 1.86;
+    text-align: center;
+    color: #807d74;
 }
